@@ -1,2 +1,6 @@
 # Notes_for_Machine-Learning
-INCLUDE : Numpy , Pandas and Matplot 
+INCLUDE : 
+  * Numpy
+  * Pandas
+  * Matplot 
+Further Notes After Learning will be added 
